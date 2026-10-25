@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Omaha Charge Compass</name><description>Snapshot 2026-10-24T21:00:00Z. Not live availability. Verify access before travel.</description><Style id="fast"><IconStyle><color>ff3273e8</color><Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon></IconStyle></Style><Style id="slow"><IconStyle><color>ff8a6741</color><Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon></IconStyle></Style><Style id="check"><IconStyle><color>ff888888</color><Icon><href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon></IconStyle></Style><Folder><name>DC fast</name><Placemark><name>MCC SOC AUTO BLDG</name><styleUrl>#fast</styleUrl><description>2900 Edward Babe Gomez Ave, Omaha
+ChargePoint Network | CHADEMO, J1772COMBO
+DC ports: 1; Level 2 ports: 0
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.208959,-95.957446&amp;travelmode=driving</description><Point><coordinates>-95.957446,41.208959,0</coordinates></Point></Placemark><Placemark><name>OMAHA OMAHA ILOT 3-1</name><styleUrl>#fast</styleUrl><description>1703 Chicago St, Omaha
+ChargePoint Network | CHADEMO, J1772COMBO
+DC ports: 1; Level 2 ports: 0
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.263675,-95.940141&amp;travelmode=driving</description><Point><coordinates>-95.940141,41.263675,0</coordinates></Point></Placemark><Placemark><name>Westwood Plaza</name><styleUrl>#fast</styleUrl><description>12125 W Center Rd, Omaha
+eVgo Network | J1772COMBO
+DC ports: 6; Level 2 ports: 0
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.23318,-96.10453&amp;travelmode=driving</description><Point><coordinates>-96.10453,41.23318,0</coordinates></Point></Placemark><Placemark><name>Walmart EV Charging</name><styleUrl>#fast</styleUrl><description>12850 L St, Omaha
+WALMART | J1772COMBO, TESLA
+DC ports: 8; Level 2 ports: 0
+24 hours daily
+$0.46 per kWh
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.214792,-96.114346&amp;travelmode=driving</description><Point><coordinates>-96.114346,41.214792,0</coordinates></Point></Placemark><Placemark><name>Target T2383 (Omaha, NE)</name><styleUrl>#fast</styleUrl><description>12500 K Plaza, Omaha
+Electrify America | J1772COMBO
+DC ports: 12; Level 2 ports: 0
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.21468,-96.10865&amp;travelmode=driving</description><Point><coordinates>-96.10865,41.21468,0</coordinates></Point></Placemark></Folder><Folder><name>Level 2 / slow</name><Placemark><name>NODDLE ZONE 6 #3</name><styleUrl>#slow</styleUrl><description>2130 S 64th Plaza, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.239865,-96.012124&amp;travelmode=driving</description><Point><coordinates>-96.012124,41.239865,0</coordinates></Point></Placemark><Placemark><name>87DODGE 87 DODGE</name><styleUrl>#slow</styleUrl><description>8701 W Dodge Rd, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 1
+Mon: 6:00am-11:00pm; Tue: 6:00am-11:00pm; Wed: 6:00am-11:00pm; Thu: 6:00am-11:00pm; Fri: 6:00am-11:00pm; Sat: 6:00am-11:00pm; Sun: 6:00am-11:00pm
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.262524,-96.04924&amp;travelmode=driving</description><Point><coordinates>-96.04924,41.262524,0</coordinates></Point></Placemark><Placemark><name>NODDLE ZONE 6 #2</name><styleUrl>#slow</styleUrl><description>1915 S 64th Ave, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.240371,-96.012812&amp;travelmode=driving</description><Point><coordinates>-96.012812,41.240371,0</coordinates></Point></Placemark><Placemark><name>NP DODGE 8601</name><styleUrl>#slow</styleUrl><description>8601 West Dodge Road, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+Mon: 6:00am-11:00pm; Tue: 6:00am-11:00pm; Wed: 6:00am-11:00pm; Thu: 6:00am-11:00pm; Fri: 6:00am-11:00pm; Sat: 6:00am-11:00pm; Sun: 6:00am-11:00pm
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.26237,-96.047874&amp;travelmode=driving</description><Point><coordinates>-96.047874,41.26237,0</coordinates></Point></Placemark><Placemark><name>OMAHA OMAHA PARK 6</name><styleUrl>#slow</styleUrl><description>321 N 17th St, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.26245,-95.93828&amp;travelmode=driving</description><Point><coordinates>-95.93828,41.26245,0</coordinates></Point></Placemark><Placemark><name>NODDLE ZONE 6 #1</name><styleUrl>#slow</styleUrl><description>1915 S 64th Ave, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.240416,-96.012793&amp;travelmode=driving</description><Point><coordinates>-96.012793,41.240416,0</coordinates></Point></Placemark><Placemark><name>UNMC PARK LEAVENWORT</name><styleUrl>#slow</styleUrl><description>4014 Leavenworth St, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.253096,-95.973448&amp;travelmode=driving</description><Point><coordinates>-95.973448,41.253096,0</coordinates></Point></Placemark><Placemark><name>OMAHA OMAHA PARK 1-2</name><styleUrl>#slow</styleUrl><description>1506 Douglas St, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.259007,-95.936342&amp;travelmode=driving</description><Point><coordinates>-95.936342,41.259007,0</coordinates></Point></Placemark><Placemark><name>OMAHA 16TH AND HOWARD</name><styleUrl>#slow</styleUrl><description>514 S 16th St, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.255544,-95.937454&amp;travelmode=driving</description><Point><coordinates>-95.937454,41.255544,0</coordinates></Point></Placemark><Placemark><name>OMAHA OMAHA PARK 1-1</name><styleUrl>#slow</styleUrl><description>1506 Douglas St, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.258927,-95.936345&amp;travelmode=driving</description><Point><coordinates>-95.936345,41.258927,0</coordinates></Point></Placemark><Placemark><name>OMAHA PARK 5 SOUTH</name><styleUrl>#slow</styleUrl><description>301 N 19th St, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.260962,-95.940954&amp;travelmode=driving</description><Point><coordinates>-95.940954,41.260962,0</coordinates></Point></Placemark><Placemark><name>OMAHA OMAHA ILOT 3-2</name><styleUrl>#slow</styleUrl><description>1703 Chicago St, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.263653,-95.94023&amp;travelmode=driving</description><Point><coordinates>-95.94023,41.263653,0</coordinates></Point></Placemark><Placemark><name>MCC MIDDLE LEVEL 2</name><styleUrl>#slow</styleUrl><description>2900 Edward Babe Gomez Ave, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.209205,-95.958379&amp;travelmode=driving</description><Point><coordinates>-95.958379,41.209205,0</coordinates></Point></Placemark><Placemark><name>MCC SOUTH LEVEL 2</name><styleUrl>#slow</styleUrl><description>2900 Edward Babe Gomez Ave, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.209174,-95.958087&amp;travelmode=driving</description><Point><coordinates>-95.958087,41.209174,0</coordinates></Point></Placemark><Placemark><name>OMAHA 9610 F ST - 1</name><styleUrl>#slow</styleUrl><description>9610 F St, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.220566,-96.06314&amp;travelmode=driving</description><Point><coordinates>-96.06314,41.220566,0</coordinates></Point></Placemark><Placemark><name>IBEW LU 22 IBEW LU 22</name><styleUrl>#slow</styleUrl><description>8946 L St, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.213193,-96.05045&amp;travelmode=driving</description><Point><coordinates>-96.05045,41.213193,0</coordinates></Point></Placemark><Placemark><name>NODDLE ZONE 3 #2</name><styleUrl>#slow</styleUrl><description>6460 Center St, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.238386,-96.012425&amp;travelmode=driving</description><Point><coordinates>-96.012425,41.238386,0</coordinates></Point></Placemark><Placemark><name>NODDLE ZONE 3 #1</name><styleUrl>#slow</styleUrl><description>6464 Center St, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.238411,-96.013035&amp;travelmode=driving</description><Point><coordinates>-96.013035,41.238411,0</coordinates></Point></Placemark><Placemark><name>NODDLE FNB WEST</name><styleUrl>#slow</styleUrl><description>13815 FNB Pkwy, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.265409,-96.131695&amp;travelmode=driving</description><Point><coordinates>-96.131695,41.265409,0</coordinates></Point></Placemark><Placemark><name>NODDLE FNB EAST</name><styleUrl>#slow</styleUrl><description>13810 FNB Pkwy, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.266617,-96.132781&amp;travelmode=driving</description><Point><coordinates>-96.132781,41.266617,0</coordinates></Point></Placemark><Placemark><name>OMAHA 9610 F ST - 2</name><styleUrl>#slow</styleUrl><description>9610 F St, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.220572,-96.063162&amp;travelmode=driving</description><Point><coordinates>-96.063162,41.220572,0</coordinates></Point></Placemark><Placemark><name>OMAHA 5225 DAYTON - 2</name><styleUrl>#slow</styleUrl><description>5225 Dayton St, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.217219,-95.996649&amp;travelmode=driving</description><Point><coordinates>-95.996649,41.217219,0</coordinates></Point></Placemark><Placemark><name>OMAHA 5225 DAYTON - 1</name><styleUrl>#slow</styleUrl><description>5225 Dayton St, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.217198,-95.996665&amp;travelmode=driving</description><Point><coordinates>-95.996665,41.217198,0</coordinates></Point></Placemark><Placemark><name>OMAHA BLACKSTONE WEST</name><styleUrl>#slow</styleUrl><description>325 S 38th St, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.25749,-95.968939&amp;travelmode=driving</description><Point><coordinates>-95.968939,41.25749,0</coordinates></Point></Placemark><Placemark><name>CREIGHTONU SOUTH CHARGER</name><styleUrl>#slow</styleUrl><description>2485 Cuming Street, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.267356,-95.94932&amp;travelmode=driving</description><Point><coordinates>-95.94932,41.267356,0</coordinates></Point></Placemark><Placemark><name>CREIGHTONU NORTH CHARGER</name><styleUrl>#slow</styleUrl><description>2485 Cuming Street, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.267373,-95.949321&amp;travelmode=driving</description><Point><coordinates>-95.949321,41.267373,0</coordinates></Point></Placemark><Placemark><name>SQUARE STATION SQUARE APARTMEN</name><styleUrl>#slow</styleUrl><description>3021 Leavenworth Street, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.252071,-95.957461&amp;travelmode=driving</description><Point><coordinates>-95.957461,41.252071,0</coordinates></Point></Placemark><Placemark><name>SGH SGH1</name><styleUrl>#slow</styleUrl><description>1111 Papillion Parkway, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.269507,-96.086666&amp;travelmode=driving</description><Point><coordinates>-96.086666,41.269507,0</coordinates></Point></Placemark><Placemark><name>OMAHA BLACKSTONE EAST</name><styleUrl>#slow</styleUrl><description>325 S 38th St, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.257483,-95.968921&amp;travelmode=driving</description><Point><coordinates>-95.968921,41.257483,0</coordinates></Point></Placemark><Placemark><name>Heartwood Row Parking Garage</name><styleUrl>#slow</styleUrl><description>151 South 147th Street, Omaha
+Blink Network | J1772
+DC ports: 0; Level 2 ports: 4
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.25802688664255,-96.14237432850274&amp;travelmode=driving</description><Point><coordinates>-96.14237432850274,41.25802688664255,0</coordinates></Point></Placemark><Placemark><name>CARBONDALE CP MERCY 4</name><styleUrl>#slow</styleUrl><description>7111 Mercy Road, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 1
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.23691,-96.02189&amp;travelmode=driving</description><Point><coordinates>-96.02189,41.23691,0</coordinates></Point></Placemark><Placemark><name>CARBONDALE CP MERCY 3</name><styleUrl>#slow</styleUrl><description>7111 Mercy Road, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 1
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.23691,-96.021924&amp;travelmode=driving</description><Point><coordinates>-96.021924,41.23691,0</coordinates></Point></Placemark><Placemark><name>CARBONDALE CP MERCY 2</name><styleUrl>#slow</styleUrl><description>7111 Mercy Road, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 1
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.236913,-96.021958&amp;travelmode=driving</description><Point><coordinates>-96.021958,41.236913,0</coordinates></Point></Placemark><Placemark><name>CARBONDALE CP MERCY 1</name><styleUrl>#slow</styleUrl><description>7111 Mercy Road, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 1
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.236918,-96.021993&amp;travelmode=driving</description><Point><coordinates>-96.021993,41.236918,0</coordinates></Point></Placemark><Placemark><name>OMAHA EDGE NORTH</name><styleUrl>#slow</styleUrl><description>4605 Farnam Street, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.256064,-95.983778&amp;travelmode=driving</description><Point><coordinates>-95.983778,41.256064,0</coordinates></Point></Placemark><Placemark><name>OMAHA EDGE SOUTH</name><styleUrl>#slow</styleUrl><description>4605 Farnam Street, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.255968,-95.983785&amp;travelmode=driving</description><Point><coordinates>-95.983785,41.255968,0</coordinates></Point></Placemark></Folder><Folder><name>Adapter / access check</name><Placemark><name>Element Omaha Midtown Crossing - Tesla Destination</name><styleUrl>#check</styleUrl><description>3253 Dodge St, Omaha
+Tesla Destination | TESLA
+DC ports: 0; Level 2 ports: 2
+24 hours daily. Open to Teslas only.
+Free
+Adapter required; verify vehicle/site support.
+Check property access before travel.
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.2595232,-95.9610416&amp;travelmode=driving</description><Point><coordinates>-95.9610416,41.2595232,0</coordinates></Point></Placemark><Placemark><name>DEFIANCE H-D DCFAST HOG</name><styleUrl>#check</styleUrl><description>4940 S 72nd St, Omaha
+ChargePoint Network | J1772COMBO
+DC ports: 1; Level 2 ports: 0
+24 hours daily
+Check network app for current pricing
+Check property access before travel.
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.20988,-96.02475&amp;travelmode=driving</description><Point><coordinates>-96.02475,41.20988,0</coordinates></Point></Placemark><Placemark><name>Valmont Show Unit 1</name><styleUrl>#check</styleUrl><description>15000 Valmont Plaza, Omaha
+AMPUP | J1772
+DC ports: 0; Level 2 ports: 1
+Contact station for hours of availability
+Check network app for current pricing
+Check property access before travel.
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.2602156,-96.1467084&amp;travelmode=driving</description><Point><coordinates>-96.1467084,41.2602156,0</coordinates></Point></Placemark><Placemark><name>Hotel Indigo Downtown Omaha</name><styleUrl>#check</styleUrl><description>1802 Dodge St, Omaha
+AMPUP | J1772
+DC ports: 0; Level 2 ports: 2
+Contact site for information
+$0.49 per kWh
+Check property access before travel.
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.26,-95.94&amp;travelmode=driving</description><Point><coordinates>-95.94,41.26,0</coordinates></Point></Placemark><Placemark><name>CLUBHOUSE125 PARK125 - 1</name><styleUrl>#check</styleUrl><description>12500 W Dodge Rd, Omaha
+ChargePoint Network | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Check property access before travel.
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.263732,-96.109329&amp;travelmode=driving</description><Point><coordinates>-96.109329,41.263732,0</coordinates></Point></Placemark><Placemark><name>Omaha, NE - Tesla Supercharger</name><styleUrl>#check</styleUrl><description>8809 W Center Rd, Omaha
+Tesla | TESLA
+DC ports: 12; Level 2 ports: 0
+24 hours daily. Open to Teslas only.
+Check network app for current pricing
+Adapter required; verify vehicle/site support.
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.233639,-96.05237&amp;travelmode=driving</description><Point><coordinates>-96.05237,41.233639,0</coordinates></Point></Placemark><Placemark><name>Hilton Omaha</name><styleUrl>#check</styleUrl><description>7011 Hascall St, Omaha
+EVGATEWAY | J1772
+DC ports: 0; Level 2 ports: 4
+24 hours daily
+Check network app for current pricing
+Check property access before travel.
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.2288482,-96.0216298&amp;travelmode=driving</description><Point><coordinates>-96.0216298,41.2288482,0</coordinates></Point></Placemark><Placemark><name>Hampton Inn Omaha Midtown-Aksarben Area</name><styleUrl>#check</styleUrl><description>1401 S 72nd St, Omaha
+EVGATEWAY | J1772
+DC ports: 0; Level 2 ports: 2
+24 hours daily
+Check network app for current pricing
+Check property access before travel.
+Not live availability.
+Navigate: https://www.google.com/maps/dir/?api=1&amp;destination=41.2456563,-96.02300439999999&amp;travelmode=driving</description><Point><coordinates>-96.02300439999999,41.2456563,0</coordinates></Point></Placemark></Folder></Document></kml>

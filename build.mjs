@@ -1,0 +1,13 @@
+import {readFile,writeFile,mkdir,copyFile} from 'node:fs/promises';
+import {normalize,kml,direct,corridor} from './core.mjs';
+const raw=JSON.parse(await readFile('stations-raw.json','utf8'));const route=JSON.parse(await readFile('route.json','utf8'));const anchors=JSON.parse(await readFile('anchors.json','utf8'));
+const seed={stations:normalize(raw),fetchedAt:'2026-10-24T21:00:00Z',persisted:false,source:'USDOT BTS / AFDC'};
+let core=(await readFile('core.mjs','utf8')).replace(/export /g,'');
+let html=await readFile('index.html','utf8');html=html.replace('/* CORE */',()=>core).replace('/* SEED */',()=> 'const INITIAL='+JSON.stringify(seed)+';const ROUTE='+JSON.stringify(route)+';const ANCHORS='+JSON.stringify(anchors.slice(0,2))+';');
+const server=(await readFile('server.mjs','utf8')).replace(/^import[^\n]+\n/,'');
+await mkdir('dist/server',{recursive:true});await mkdir('dist/.openai',{recursive:true});
+await writeFile('dist/server/index.js',core+'\nconst HTML='+JSON.stringify(html)+';\nconst SEED='+JSON.stringify(seed)+';\n'+server);
+await copyFile('.openai/hosting.json','dist/.openai/hosting.json');await writeFile('preview.html',html);
+const list=seed.stations.filter(s=>s.access==='public'&&s.status==='E'&&corridor(s,route)<2);
+await writeFile('omaha-commute-chargers.kml',kml(list,seed.fetchedAt));
+console.log(JSON.stringify({records:seed.stations.length,corridor:list.length,directDC:list.filter(s=>s.dc&&direct(s)).length}));
